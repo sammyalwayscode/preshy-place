@@ -657,7 +657,7 @@ export default function Home() {
                     <div>
                       <p className="font-medium">Email</p>
                       <p className="text-burgundy-700">
-                        contact@preshsplace.com
+                        preshplace1759@gmail.com
                       </p>
                     </div>
                   </div>
@@ -665,7 +665,9 @@ export default function Home() {
                     <Phone className="h-5 w-5 text-burgundy-700 mr-3 mt-1" />
                     <div>
                       <p className="font-medium">Phone</p>
-                      <p className="text-burgundy-700">+234 123 456 7890</p>
+                      <p className="text-burgundy-700">
+                        09074846488, 07032930271
+                      </p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -673,9 +675,9 @@ export default function Home() {
                     <div>
                       <p className="font-medium">Studio Address</p>
                       <p className="text-burgundy-700">
-                        123 Fashion Street
+                        Habibu street,Oluseyi Eleyele
                         <br />
-                        Lagos, Nigeria
+                        Ibadan, Nigeria
                       </p>
                     </div>
                   </div>
@@ -835,15 +837,15 @@ export default function Home() {
               <ul className="space-y-2">
                 <li className="flex items-center">
                   <Mail className="h-4 w-4 mr-2" />
-                  <span>contact@preshsplace.com</span>
+                  <span>preshplace1759@gmail.com</span>
                 </li>
                 <li className="flex items-center">
                   <Phone className="h-4 w-4 mr-2" />
-                  <span>+234 123 456 7890</span>
+                  <span>0907 484 6488, 0703 293 0271</span>
                 </li>
                 <li className="flex items-center">
                   <MapPin className="h-4 w-4 mr-2" />
-                  <span>Lagos, Nigeria</span>
+                  <span>Habibu street,Oluseyi Eleyele, Ibadan.</span>
                 </li>
               </ul>
             </div>
